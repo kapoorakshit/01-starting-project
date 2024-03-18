@@ -22,6 +22,7 @@ dispatch(authActions.login());
             <input type='password' id='password' />
           </div>
           <button onClick={loginHandler}>Login</button>
+          <h1>hfbd</h1>
         </form>
       </section>
     </main>
