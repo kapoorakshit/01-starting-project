@@ -21,7 +21,7 @@ dispatch(authActions.login());
             <label htmlFor='password'>Password</label>
             <input type='password' id='password' />
           </div>
-          <button onClick={loginHandler}>Login</button>
+          <button onClick={loginHandler}>Loginn</button>
           <h1>hfbd</h1>
         </form>
       </section>
