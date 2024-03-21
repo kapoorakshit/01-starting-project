@@ -20,7 +20,6 @@ const decrementhandler=()=> {
 }
 const increaseByfive=()=> {
   dispatch({type: 'increaseby5'});
-
 }
   return (
     <main className={classes.counter}>
